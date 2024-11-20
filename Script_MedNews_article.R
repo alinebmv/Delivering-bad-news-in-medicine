@@ -9,6 +9,8 @@ library(readr)
 require(dplyr)
 require(tidyr)
 
+
+
 setwd("C:/Users/aline/OneDrive/Documentos/R/MedNews")
 
 ####################################################################################################################
