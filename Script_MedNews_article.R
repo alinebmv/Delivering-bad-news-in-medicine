@@ -9,7 +9,7 @@ library(readr)
 require(dplyr)
 require(tidyr)
 
-
+teste, teste
 
 setwd("C:/Users/aline/OneDrive/Documentos/R/MedNews")
 
